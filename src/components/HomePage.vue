@@ -1,7 +1,6 @@
 <template>
     <div class="flex flex-col justify-center items-center">
-        <h1 class="text-2xl">Home</h1>
-        <p>Welcome to the Home page</p>
+        <p class="text-xl">Help us welcome Baby Marquez into this world!</p>
     </div>
 </template>
 <script>
